@@ -7,5 +7,5 @@ public interface InterfaceB {
 		System.out.println("Good");
 	}
 	public void m2();
-	
+	public void m5();
 }
