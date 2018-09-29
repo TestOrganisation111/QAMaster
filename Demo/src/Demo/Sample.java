@@ -25,7 +25,7 @@ public class Sample extends abstractclass  implements InterfaceA {
 
 		abstractclass Sample = new Sample();
 		Sample.m3();
-		
+		Sample.run3();
 
 	
 	
